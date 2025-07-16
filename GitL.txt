@@ -1,4 +1,5 @@
 Hi git
 git add filename
+git add . - for add all files
 git commit -m "message"
 git push origin main
